@@ -59,7 +59,7 @@ git clone [https://github.com/Microsoft/vcpkg.git](https://github.com/Microsoft/
 
 ```
 
-2. Compile the Project
+###2. Compile the Project
 Clone this GitHub repository:
 
 Bash
