@@ -1,0 +1,20 @@
+Grid Renk Durumu - 2025-11-02 12:53:20
+========================================
+
+Satir  1:  | GRI      | TURUNCU  | TURUNCU  | TURUNCU  | TURUNCU  | TURUNCU  | TURUNCU  | TURUNCU  | TURUNCU  | 
+---------+---------------------------------------------------------------------------------------------------
+Satir 2 :  | GRI      | GRI      | TURUNCU  | TURUNCU  | KIRMIZI  | KIRMIZI  | TURUNCU  | TURUNCU  | TURUNCU  | 
+---------+---------------------------------------------------------------------------------------------------
+Satir 3 :  | GRI      | GRI      | GRI      | TURUNCU  | TURUNCU  | TURUNCU  | TURUNCU  | TURUNCU  | TURUNCU  | 
+---------+---------------------------------------------------------------------------------------------------
+Satir 4 :  | GRI      | GRI      | GRI      | TURUNCU  | GRI      | KIRMIZI  | TURUNCU  | TURUNCU  | TURUNCU  | 
+---------+---------------------------------------------------------------------------------------------------
+Satir 5 :  | GRI      | GRI      | GRI      | GRI      | GRI      | TURUNCU  | TURUNCU  | TURUNCU  | TURUNCU  | 
+---------+---------------------------------------------------------------------------------------------------
+Satir 6 :  | GRI      | GRI      | GRI      | GRI      | GRI      | TURUNCU  | TURUNCU  | GRI      | TURUNCU  | 
+---------+---------------------------------------------------------------------------------------------------
+Satir 7 :  | GRI      | GRI      | GRI      | GRI      | KIRMIZI  | TURUNCU  | GRI      | TURUNCU  | TURUNCU  | 
+---------+---------------------------------------------------------------------------------------------------
+Satir 8 :  | GRI      | GRI      | GRI      | GRI      | GRI      | TURUNCU  | GRI      | GRI      | TURUNCU  | 
+---------+---------------------------------------------------------------------------------------------------
+Satir 9 :  | TURUNCU  | GRI      | GRI      | GRI      | TURUNCU  | TURUNCU  | TURUNCU  | GRI      | TURUNCU  | 
