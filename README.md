@@ -57,6 +57,7 @@ git clone [https://github.com/Microsoft/vcpkg.git](https://github.com/Microsoft/
 # Integrate vcpkg with Visual Studio (one-time command)
 .\vcpkg\vcpkg.exe integrate install
 
+```
 
 2. Compile the Project
 Clone this GitHub repository:
